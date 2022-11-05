@@ -275,6 +275,20 @@ kvm2を使用して、minikubeを起動する。
 
 ### containerd
 
+{% embed url="https://zenn.dev/dozo/articles/8f52b714d6d430" %}
+
+containerd
+
+```
+sudo apt install -y containerd
+```
+
+rootless
+
+```
+sudo apt install -y 
+```
+
 ### Oh My zsh
 
 {% embed url="https://ohmyz.sh/" %}
